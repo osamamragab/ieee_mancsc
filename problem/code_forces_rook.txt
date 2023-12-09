@@ -1,0 +1,25 @@
+A. Rook, https://codeforces.com/problemset/problem/1907/A
+
+first line = test cases (number of inputs)
+
+d5 -> d[1-8] + [a-h]5 - d5 => "CN" -> C != "d" and N != "5"
+
+Input Sample:
+1
+d5
+
+Output Sample:
+d1
+d2
+b5
+g5
+h5
+d3
+e5
+f5
+d8
+a5
+d6
+d7
+c5
+d4
